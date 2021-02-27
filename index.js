@@ -1,5 +1,6 @@
 // Code your solution in this file!
 
+<<<<<<< HEAD
 //Declare a variable with const that is assigned an anonymous function. The assigned function should accept an array of drivers as an argument and return the first two drivers in the array.
 
 const returnFirstTwoDrivers = function(arr){
@@ -38,3 +39,11 @@ const fareTripler = createFareMultiplier(3);
 const selectDifferentDrivers = function (drivers, funcDrivers) {
   return funcDrivers(drivers);
 };
+=======
+returnFirstTwoDrivers(){
+  const drivers2 = function(arr){
+    return arr[0] 
+    return arr[1]
+  }
+}
+>>>>>>> ec16bd3551c4348ff8c0c962364ffc5b6011ffcf
